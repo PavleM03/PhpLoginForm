@@ -8,6 +8,8 @@ Create a folder in Xampp's htdocs folder and call it app
 
 Start apache and mysql in Xampp Control panel
 
-And finally go to localhost/app/login.php or localhost/app/register.php
+And finally go to your browser
+
+Type either localhost/app/login.php or localhost/app/register.php
 
 Enjoy the app :)
